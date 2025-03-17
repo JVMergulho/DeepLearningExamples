@@ -4,4 +4,7 @@ Repository for storing notebooks with examples of problem solving with deep lear
 
 ---- 
 
-Winie Quality -> Regression with implementation of easy stopping
+### 1. Wine Quality (notebook 1)
+- tabular data
+- Regression problem
+- implementation of easy stopping
